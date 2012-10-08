@@ -1,6 +1,6 @@
 {
-  "name": "winston-fileRotateDate",
-  "version": "0.1.1",
+  "name": "winston-filerotatedate",
+  "version": "0.1.2",
   "description": "File logger for winston that rotates files in a logical date dependent way",
   "main": "./lib/fileRotateDate",
   "scripts": {
