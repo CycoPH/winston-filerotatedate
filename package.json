@@ -2,7 +2,7 @@
   "name": "winston-fileRotateDate",
   "version": "0.1.0",
   "description": "File logger for winston that rotates files in a logical date dependent way",
-  "main": "./lib/winston-fileRotateDate",
+  "main": "./lib/fileRotateDate",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
