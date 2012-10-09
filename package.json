@@ -1,11 +1,8 @@
 {
   "name": "winston-filerotatedate",
-  "version": "0.1.2",
-  "description": "File logger for winston that rotates files in a logical date dependent way",
+  "description": "File transport for winston that rotates files in a logical date dependent way",
+  "version": "0.1.3",
   "main": "./lib/fileRotateDate",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "keywords": [
     "logging",
     "winston",
@@ -14,7 +11,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/CycoPH/winston-fileRotateDate.git"
+    "url": "git://github.com/CycoPH/winston-filerotatedate.git"
   },
   "scripts": {
     "test": "node test/test.js"
@@ -23,5 +20,6 @@
   "license": "BSD",
   "dependencies": {
     "winston": ""
-  }
+  },
+  "readme": "# winston-filerotatedate\n\nFile transport for winston that allows the log files to be rotated depending on size and time."
 }
