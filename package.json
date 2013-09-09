@@ -1,7 +1,7 @@
 {
   "name": "winston-filerotatedate",
   "description": "File transport for winston that rotates files in a logical date dependent way",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "main": "./lib/fileRotateDate",
   "keywords": [
     "logging",
@@ -19,7 +19,7 @@
   "author": "Peter Hinz (peter@codeforte.com)",
   "license": "BSD",
   "dependencies": {
-    "winston": "0.6.x"
+    "winston": "0.7.x"
   },
   "readme": "# winston-filerotatedate\n\nFile transport for winston that allows the log files to be rotated depending on size and time."
 }
