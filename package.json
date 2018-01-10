@@ -1,7 +1,7 @@
 {
   "name": "winston-filerotatedate",
   "description": "File transport for winston that rotates files in a logical date dependent way",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "main": "./lib/fileRotateDate",
   "keywords": [
     "logging",
